@@ -53,7 +53,7 @@
             Controls.Add(button1);
             DoubleBuffered = true;
             Name = "Inforcoes";
-            Text = "Inforcoes";
+            Text = " ";
             ResumeLayout(false);
         }
 

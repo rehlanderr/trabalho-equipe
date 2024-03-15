@@ -41,7 +41,7 @@
             button1.Name = "button1";
             button1.Size = new Size(100, 37);
             button1.TabIndex = 0;
-            button1.Text = "Ir";
+            button1.Text = "----------------";
             button1.UseVisualStyleBackColor = true;
             // 
             // textBox1
